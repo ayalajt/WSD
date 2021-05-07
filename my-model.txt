@@ -1,0 +1,47 @@
+If line is followed by "to", then the word sense is phone.
+If line is followed by "and", then the word sense is phone.
+If line is followed by "was", then the word sense is phone.
+If line is followed by "of", then the word sense is product.
+If line is followed by "in", then the word sense is product.
+If line is followed by "is", then the word sense is product.
+Log-likelihood score = 0.12493873660829993
+If line is preceeded by "the", then the word sense is phone.
+If line is preceeded by "telephone", then the word sense is phone.
+If line is preceeded by "access", then the word sense is phone.
+If line is preceeded by "a", then the word sense is product.
+If line is preceeded by "car", then the word sense is product.
+If line is preceeded by "new", then the word sense is product.
+Log-likelihood score = 0.6118198286171186
+If line is followed by the k=3 words "'was', 'dead', '.'", then the word sense is phone.
+If line is followed by the k=3 words "'went', 'dead', '.'", then the word sense is phone.
+If line is followed by the k=3 words "'were', 'added', 'in'", then the word sense is phone.
+If line is followed by the k=3 words "'at', 'more', 'than'", then the word sense is product.
+If line is followed by the k=3 words "'of', 'personal', 'computers.'", then the word sense is product.
+If line is followed by the k=3 words "'as', 'the', 'new'", then the word sense is product.
+Log-likelihood score = 0.0
+If line is preceeded by the two words "on the", then the word sense is phone.
+If line is preceeded by the two words "of the", then the word sense is phone.
+If line is preceeded by the two words ". The", then the word sense is phone.
+If line is preceeded by the two words "a new", then the word sense is product.
+If line is preceeded by the two words "introduced a", then the word sense is product.
+If line is preceeded by the two words "new IBM", then the word sense is product.
+Log-likelihood score = 0.6532125137753437
+If line is preceeded by "the" and then followed by ",", then the word sense is phone.
+If line is preceeded by "the" and then followed by ".", then the word sense is phone.
+If line is preceeded by "The" and then followed by "was", then the word sense is phone.
+If line is preceeded by "a" and then followed by "of", then the word sense is product.
+If line is preceeded by "new" and then followed by "of", then the word sense is product.
+If line is preceeded by "IBM" and then followed by ".", then the word sense is product.
+Log-likelihood score = 0.2041199826559248
+If line is followed by the two words "to the", then the word sense is phone.
+If line is followed by the two words "was dead", then the word sense is phone.
+If line is followed by the two words ", and", then the word sense is phone.
+If line is followed by the two words "of personal", then the word sense is product.
+If line is followed by the two words ", and", then the word sense is product.
+If line is followed by the two words ", which", then the word sense is product.
+Log-likelihood score = 0.12493873660829993
+If line contains the word "telephone" in its sentence, then the word sense is phone.
+If line contains the word "phone" in its sentence, then the word sense is phone.
+If line contains the word "new" in its sentence, then the word sense is product.
+If line contains the word "will" in its sentence, then the word sense is product.
+Log-likelihood score = 0.05016660946573024

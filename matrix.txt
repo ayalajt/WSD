@@ -1,0 +1,6 @@
+Overall Accuracy: 87.3%
+
+Predicted  phone  product
+Actual                   
+phone         56       16
+product        0       54
